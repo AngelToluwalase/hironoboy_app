@@ -1,0 +1,15 @@
+{
+  "name": "Hirono Boy Collector",
+  "short_name": "Hirono",
+  "description": "A tiny collectors' game: open blind boxes, unlock Hirono boy figurines and browse your shelf.",
+  "start_url": "./index.html#home",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#16241b",
+  "theme_color": "#16382a",
+  "icons": [
+    { "src": "icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any" },
+    { "src": "icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "maskable" }
+  ]
+}
